@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @punkypanda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-punkypanda/punkypanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @punkypanda
+- 👀 I'm interested in blockchain development, DeFi projects, and meme coins.
+- 🌱 I'm currently learning smart contract development and advanced trading strategies.
+- 👯 I'm looking to collaborate on open-source crypto projects and game development on the blockchain.
+- 📫 How to reach me: [punkypanda97@gmail.com](mailto: punkypanda97@gmail.com) or on Twitter [@punkypanda_](https://twitter.com/punkypanda_)
+- 📝 Pronouns: He/Him
+- ⚡ Fun fact: I love cats and I'm a big fan of anime.
